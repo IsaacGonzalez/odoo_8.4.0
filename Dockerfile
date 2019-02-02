@@ -1,3 +1,8 @@
+###
+### Imagen de docker de odoo 8 con dependencias extras
+### usadas para los clientes de 4.0
+###
+
 FROM odoo:8.0
 
 MAINTAINER Isaac Gonzalez <isaac@cuatropuntocero.solutions>
